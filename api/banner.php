@@ -5,7 +5,7 @@ header("Content-Type: application/json");
 
 // Simulate banner data
 $banner = [
-    'image_url' => 'online-test/api/amit.jpg',
+    'image_url' => 'https://cdn.pixabay.com/photo/2015/03/04/22/35/avatar-659652_1280.png',
     'link' => 'https://yourdomain.com/landing-page',
     'alt_text' => 'Your Banner Description'
 ];
